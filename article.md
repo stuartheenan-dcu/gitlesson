@@ -1,3 +1,3 @@
-“# How To Use Git to Manage Your Writing Project”
-#Introduction
-First line of my intro
+# How To Use Git to Manage Your Writing Project
+## Introduction
+_First line of my intro_
